@@ -16,8 +16,9 @@ h2{
 h3{
   font-size: 21px;
   color: gray;
+  font-weight: normal;
 }
-p{
+a{
   color: aquamarine;
   font-size: 16px;
 }
